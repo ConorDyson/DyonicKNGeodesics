@@ -5,7 +5,7 @@ Consists of two primary packages within Kernel, DyonicKNGeoOrbit which solves fo
 Packages can be loaded as seen in GeodesicRunFile as a paclet using the commands 
     - SetDirectory@NotebookDirectory[]
     - PacletDirectoryLoad["."]
-    - << DyonicKNGeodesicsdfd
+    - << DyonicKNGeodesics
     
 Each file has has one function, DyonicKNGeoPlunge[...] and DyonicKNGeoOrbit[...] output with certain associations
     
